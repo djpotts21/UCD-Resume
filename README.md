@@ -1,39 +1,100 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+<h1 align="center">Rosie's UCD Resume</h1>
 
-Welcome,
+[View the project on my Git Pages.](https://djpotts21.github.io/UCD-Resume)
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+A responsive resume built using Bootstrap V5.2.3 for Rosie, built as part of Level 5 Diploma in Web Applications through Code Institute
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **March 3rd, 2023**
+<h2 align="center"><img src="https://djpotts21.github.io/Love-Running/assets/images/main-image.png"></h2>
 
-## Codeanywhere Reminders
+## Features
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+- Responsive on all device sizes
 
-`python3 -m http.server`
+- Interactive elements
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+## Technologies Used
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+### Languages Used
 
-`http_server`
+- [HTML5](https://en.wikipedia.org/wiki/HTML5)
+- [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+- [Bootstrap v5.2.3](https://www.bootstrapcdn.com/)
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+## Testing
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+- [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) 
+- [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) 
+-
 
-To log into the Heroku toolbelt CLI:
+### Further Testing
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+- The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
+- The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
+- A large amount of testing was done to ensure that all pages were linking correctly.
+- Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+## Deployment
 
----
+### GitHub Pages
 
-Happy coding!
+The project was deployed to GitHub Pages using the following steps...
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
+    - Alternatively Click [Here](https://raw.githubusercontent.com/) for a GIF demonstrating the process starting from Step 2.
+3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
+4. Under "Source", click the dropdown called "None" and select "Master Branch".
+5. The page will automatically refresh.
+6. Scroll back down through the page to locate the now published site [link](https://github.com) in the "GitHub Pages" section.
+
+### Forking the GitHub Repository
+
+By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
+3. You should now have a copy of the original repository in your GitHub account.
+
+### Making a Local Clone
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+2. Under the repository name, click "Clone or download".
+3. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
+4. Open Git Bash
+5. Change the current working directory to the location where you want the cloned directory to be made.
+6. Type `git clone`, and then paste the URL you copied in Step 3.
+
+```
+git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+```
+
+7. Press Enter. Your local clone will be created.
+
+```
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+> Cloning into `CI-Clone`...
+> remote: Counting objects: 10, done.
+> remote: Compressing objects: 100% (8/8), done.
+> remove: Total 10 (delta 1), reused 10 (delta 1)
+> Unpacking objects: 100% (10/10), done.
+```
+
+Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
+
+## Credits
+
+### Content
+
+- All content was written by the developer.
+
+- Psychological properties of colours text in the README.md was found [here](http://www.colour-affects.co.uk/psychological-properties-of-colours)
+
+### Media
+
+- All Images were provided by Code Institute.
+
+### Acknowledgements
+
+- Tutor support at Code Institute for their support.
