@@ -4,8 +4,6 @@
 
 A responsive resume built using Bootstrap V5.2.3 for Rosie, built as part of Level 5 Diploma in Web Applications through Code Institute
 
-<h2 align="center"><img src="https://djpotts21.github.io/Love-Running/assets/images/main-image.png"></h2>
-
 ## Features
 
 - Responsive on all device sizes
