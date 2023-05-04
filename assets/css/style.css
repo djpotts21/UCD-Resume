@@ -20,6 +20,10 @@
     background-color: #525252;
 }
 
+.bg-color-three-reasons {
+    backgroun-color: #fff;
+}
+
 /*--------------------------Headings--------------------------*/
 header {
     margin: 0;
@@ -106,6 +110,13 @@ header {
     letter-spacing: 2px;
 }
 
+.section-heading {
+    font-family: "Exo", sans-serif;
+    font-weight: 300px;
+    margin-top: 25px;
+    margin-bottom: 40px;
+}
+
 /*--------------------------Hover.CSS--------------------------*/
 .hvr-sweep-to-bottom:before {
     background: rgba(0, 0, 0, 0.2);
@@ -135,6 +146,16 @@ h6 {
 
 .inline-block {
     display: inline-block;
+}
+
+.row-table {
+    display: table;
+}
+
+.section-column {
+    display: table-cell;
+    padding: 0 30px 30px;
+    float: none;
 }
 
 /*--------------------------Footer--------------------------*/
